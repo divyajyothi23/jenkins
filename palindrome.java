@@ -1,6 +1,6 @@
 public class palindrome{
-    public static void main(string[]args){
-        if(args.length==0){
+    public static void main(string[] args) {
+        if(args.length==0) {
             System.out.println("Please provide a word to check!");
             return;
         }
